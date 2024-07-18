@@ -1,4 +1,5 @@
 import random
+import colorama
 
 class speels:
     ice_learned = False
